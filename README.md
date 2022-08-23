@@ -6,5 +6,5 @@ Flashing ExistOS firmware to HP39gii.
 
 TODO:
 
-- [ ] flash via USB MCS
+- [ ] flash via USB MSC
 - [ ] flash via COM serial port
